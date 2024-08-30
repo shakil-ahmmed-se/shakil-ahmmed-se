@@ -19,6 +19,11 @@ I'm a passionate software engineer with expertise in building web applications u
 
 ## 💼 Professional Skills
 
+<div style="display: flex; justify-content: space-between;">
+
+<!-- Left Column: Backend and Frontend -->
+<div style="flex: 1; padding-right: 10px;">
+
 ### Backend Development
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -32,6 +37,11 @@ I'm a passionate software engineer with expertise in building web applications u
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+</div>
+
+<!-- Right Column: Others -->
+<div style="flex: 1; padding-left: 10px;">
+
 ### Systems Programming
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -42,6 +52,10 @@ I'm a passionate software engineer with expertise in building web applications u
 
 ### Other Tools
 ![RESTful APIs](https://img.shields.io/badge/-RESTful%20APIs-00599C?style=for-the-badge&logo=api&logoColor=white)
+
+</div>
+
+</div>
 
 ## 📈 GitHub Stats
 

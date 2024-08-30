@@ -15,7 +15,7 @@ I'm a passionate software engineer with expertise in building web applications u
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/shakil_ahmmmed)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/shakil.ahmmedbd.3)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shakil_ahmmed01/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://shakilahmmedms.github.io/shakil_ahmmed_se/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://shakil-ahmmed-se.github.io/shakil_ahmmed_se/)
 
 ## 💼 Professional Skills
 

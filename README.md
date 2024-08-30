@@ -12,7 +12,7 @@ I'm a passionate software engineer with expertise in building web applications u
 # *Connect with me*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shakil-ahmmed-se/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ShakilA83852263)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/shakil_ahmmmed)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/shakil.ahmmedbd.3)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shakil_ahmmed01/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://shakilahmmedms.github.io/shakil_ahmmed_se/)
@@ -73,11 +73,6 @@ I'm a passionate software engineer with expertise in building web applications u
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=shakil-ahmmed-se&theme=onedark)
 
-## 🌐 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/shakil-ahmmed-se/)
-- [Twitter](https://x.com/ShakilA83852263)
-- [Facebook](https://www.facebook.com/shakil.ahmmedbd.3)
 
 I love solving complex problems and turning ideas into reality through code. You might find me exploring nature, reading a book, or playing video games when I'm not coding.
 

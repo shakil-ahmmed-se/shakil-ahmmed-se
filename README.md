@@ -29,15 +29,16 @@ I'm a passionate software engineer with expertise in building web applications u
 <td style="vertical-align: top; padding-right: 15px;">
 
 ### Frontend Development
+
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-[Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![DaisyUI](https://img.shields.io/badge/-DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+
 
 ### Backend Development
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)

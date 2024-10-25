@@ -93,6 +93,19 @@ I'm a passionate software engineer with expertise in building web applications u
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakil-ahmmed-se&layout=compact&theme=radical&cache-bust=1" alt="Top Langs" style="width: 48%;">
 </div>
 
+###
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=shakil-ahmmed-se&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+
+
+
 ## 🏆 GitHub Trophies
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=shakil-ahmmed-se&theme=onedark)

@@ -102,7 +102,7 @@ I'm a passionate software engineer with expertise in building web applications u
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=shakil-ahmmed-se&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+ <img src="https://streak-stats.demolab.com?user=shakil-ahmmed-se&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
 
 ###

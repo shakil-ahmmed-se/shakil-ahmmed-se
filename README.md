@@ -60,6 +60,13 @@ I'm a passionate software engineer with expertise in building web applications u
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
+## DevOps
+
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![VPS](https://img.shields.io/badge/-VPS-4f5b93?style=for-the-badge)
+![Cloud](https://img.shields.io/badge/-Cloud-00C7B7?style=for-the-badge)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
 </td>
